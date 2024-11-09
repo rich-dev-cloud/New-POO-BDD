@@ -1,0 +1,225 @@
+{
+    "restaurantes": [
+      {
+        "id": 1,
+        "nome": "Ferreira Cavalcanti",
+        "localização": "São Paulo/SP",
+        "imageUrl": "./images/restaurante1.jpg",
+        "produtos": [
+          {
+            "id": 1,
+            "nome": "Feijoada Completa",
+            "preco": 39.90,
+            "imageUrl": "./images/produtos/produto1.jpg",
+            "adicionais": [
+              {
+                "id": 1,
+                "nome": "Torresmo",
+                "preco": 5.00
+              },
+              {
+                "id": 2,
+                "nome": "Farofa",
+                "preco": 3.00
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "nome": "Moqueca de Peixe",
+            "preco": 49.90,
+            "imageUrl": "./images/produtos/produto2.jpg",
+            "adicionais": [
+              {
+                "id": 3,
+                "nome": "Arroz",
+                "preco": 4.00
+              },
+              {
+                "id": 4,
+                "nome": "Salada",
+                "preco": 6.00
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Sabores do Norte",
+        "localização": "Recife/PE",
+        "imageUrl": "./images/restaurante2.jpg",
+        "produtos": [
+          {
+            "id": 3,
+            "nome": "Carne de Sol com Queijo Coalho",
+            "preco": 45.00,
+            "imageUrl": "./images/produtos/produto3.jpg",
+            "adicionais": [
+              {
+                "id": 5,
+                "nome": "Manteiga de Garrafa",
+                "preco": 3.00
+              },
+              {
+                "id": 6,
+                "nome": "Baião de Dois",
+                "preco": 7.00
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "nome": "Tapioca Recheada",
+            "preco": 12.00,
+            "imageUrl": "./images/produtos/produto4.jpg",
+            "adicionais": [
+              {
+                "id": 7,
+                "nome": "Queijo Coalho",
+                "preco": 2.00
+              },
+              {
+                "id": 8,
+                "nome": "Leite Condensado",
+                "preco": 1.50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nome": "Cantina da Serra",
+        "localização": "Belo Horizonte/MG",
+        "imageUrl": "./images/restaurante3.jpeg",
+        "produtos": [
+          {
+            "id": 5,
+            "nome": "Tropeiro Mineiro",
+            "preco": 29.90,
+            "imageUrl": "./images/produtos/produto5.jpg",
+            "adicionais": [
+              {
+                "id": 9,
+                "nome": "Ovo Frito",
+                "preco": 2.00
+              },
+              {
+                "id": 10,
+                "nome": "Torresmo",
+                "preco": 3.50
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "nome": "Frango com Quiabo",
+            "preco": 32.00,
+            "imageUrl": "./images/produtos/produto6.jpg",
+            "adicionais": [
+              {
+                "id": 11,
+                "nome": "Arroz",
+                "preco": 4.00
+              },
+              {
+                "id": 12,
+                "nome": "Polenta",
+                "preco": 3.00
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nome": "Gourmet da Praia",
+        "localização": "Rio de Janeiro/RJ",
+        "imageUrl": "./images/restaurante4.jpg",
+        "produtos": [
+          {
+            "id": 7,
+            "nome": "Camarão ao Alho e Óleo",
+            "preco": 58.00,
+            "imageUrl": "./images/produtos/produto7.jpg",
+            "adicionais": [
+              {
+                "id": 13,
+                "nome": "Batata Frita",
+                "preco": 5.00
+              },
+              {
+                "id": 14,
+                "nome": "Arroz",
+                "preco": 4.00
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "nome": "Peixe à Brasileira",
+            "preco": 55.00,
+            "imageUrl": "./images/produtos/produto8.jpg",
+            "adicionais": [
+              {
+                "id": 15,
+                "nome": "Salada de Folhas",
+                "preco": 6.00
+              },
+              {
+                "id": 16,
+                "nome": "Vinagrete",
+                "preco": 3.50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nome": "Sabores do Sertão",
+        "localização": "Fortaleza/CE",
+        "imageUrl": "./images/restaurante5.jpg",
+        "produtos": [
+          {
+            "id": 9,
+            "nome": "Baião de Dois",
+            "preco": 25.00,
+            "imageUrl": "./images/produtos/produto9.jpg",
+            "adicionais": [
+              {
+                "id": 17,
+                "nome": "Queijo Coalho",
+                "preco": 3.00
+              },
+              {
+                "id": 18,
+                "nome": "Carne de Sol",
+                "preco": 8.00
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "nome": "Peixada Cearense",
+            "preco": 47.00,
+            "imageUrl": "./images/produtos/produto10.jpg",
+            "adicionais": [
+              {
+                "id": 19,
+                "nome": "Pirão",
+                "preco": 5.00
+              },
+              {
+                "id": 20,
+                "nome": "Arroz",
+                "preco": 4.00
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

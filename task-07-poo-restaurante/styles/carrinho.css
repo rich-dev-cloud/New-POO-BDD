@@ -1,0 +1,45 @@
+.itens-list {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 32px;
+}
+
+.itens-list__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #FAFAEF;
+}
+
+.item__img-container {
+    width: 50px;
+    height: 50px;
+}
+
+.item__info {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.item__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.item__title {
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.item__button-delete {
+    border: none;
+    font-size: 24px;
+    color: #ED2A1D;
+    background: none;
+}
